@@ -1,3 +1,35 @@
 body {
-    background-color: aliceblue;
+    background-color: black;
+    max-width: 1430px ;
+    max-height: 1014px ;
+}
+.header {
+    max-width: 1311px;
+    max-height: 200px;
+    margin: 0 auto;
+}
+.navbar {
+    width: 1065px;
+    height: 147px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.logo {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+.main {
+    max-width: 1175px;
+    max-height: 658px;
+    border: 2px dotted black;
+    border-radius: 30px;
+}
+.footer {
+    max-height: 100px;
+    max-width: 100%;
+    border: 1px solid black;
+    background-color: black;
 }
